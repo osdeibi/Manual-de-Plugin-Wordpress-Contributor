@@ -78,7 +78,7 @@ Este código no solo sanitiza la entrada, sino que también verifica un nonce de
 
 Consejo: Proporciona ejemplos de código que demuestren claramente cómo implementar las prácticas que estás describiendo. Asegúrate de que el código esté bien comentado y sea fácil de seguir.
 
-Paso 5: Conclusión y Buenas Prácticas Adicionales
-Original en inglés: "Make sure to always validate and sanitize inputs."
-Reescritura en español: "Recuerda siempre validar y sanitizar las entradas de usuario. Además, considera auditar regularmente tu código para identificar posibles vulnerabilidades y mantenerlo actualizado con las últimas recomendaciones de seguridad."
-Consejo: Finaliza la sección ofreciendo consejos adicionales o recordatorios que puedan ayudar a los desarrolladores a mantener altos estándares de seguridad en sus plugins.
+### Paso 5: Conclusión y Buenas Prácticas Adicionales
+- **Original en inglés:** "Make sure to always validate and sanitize inputs."
+- **Reescritura en español:** "Recuerda siempre validar y sanitizar las entradas de usuario. Además, considera auditar regularmente tu código para identificar posibles vulnerabilidades y mantenerlo actualizado con las últimas recomendaciones de seguridad."
+### Consejo:** Finaliza la sección ofreciendo consejos adicionales o recordatorios que puedan ayudar a los desarrolladores a mantener altos estándares de seguridad en sus plugins.
