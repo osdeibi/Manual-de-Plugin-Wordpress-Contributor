@@ -1,0 +1,1 @@
+# Ejemplo: "Custom Post Types permiten organizar contenido de manera específica. Utilicé register_post_type para crear un nuevo tipo de contenido para testimonios. En la documentación no está, pero descubrí que un buen método es usar post_type_supports() para asegurar que el Custom Post Type incluya todas las características necesarias, como campos personalizados o revisiones."

@@ -1,0 +1,1 @@
+# Ejemplo: "La seguridad es crucial en el desarrollo de plugins. Inicialmente, usé sanitize_text_field() para sanitizar datos de formularios, pero en la documentación no está cómo manejar entradas JSON de forma segura. Descubrí que un buen método es usar wp_json_encode() y wp_json_decode() para asegurar que los datos se procesen correctamente, minimizando riesgos de inyecciones."

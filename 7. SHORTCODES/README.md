@@ -1,0 +1,1 @@
+# Ejemplo: "Los shortcodes permiten a los usuarios insertar funciones complejas con facilidad. Desarrollé un shortcode para mostrar una galería de imágenes usando add_shortcode. En la documentación no está, pero descubrí que un buen método es combinar shortcodes con bloques de Gutenberg usando register_block_type() para ofrecer una experiencia de usuario más moderna y visual."

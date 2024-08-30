@@ -1,0 +1,1 @@
+# Ejemplo: "Los metadatos enriquecen los posts y páginas. En un plugin de eventos, añadí campos personalizados usando add_post_meta. En la documentación no está cómo optimizar la carga de metadatos. Descubrí que un buen método es utilizar get_post_meta() con la opción de caché activada para reducir la carga en la base de datos y mejorar la velocidad del sitio."
